@@ -1,3 +1,4 @@
+#َalireza noori 40113200057
 import numpy as np
 from scipy.linalg import lu, lu_factor, lu_solve
 
